@@ -44,7 +44,7 @@ Wir verbinden **Kreativität mit Substanz**. Das heißt: keine Standardlösungen
 ## 🤝 Zusammenarbeit mit uns
 Wenn Sie eine Agentur suchen, die zuhört, mitdenkt und Ideen in starke Ergebnisse übersetzt, sind Sie bei uns richtig.
 
-- 🌐 Website: [scribble-werbeagentur.de](https://scribble-werbeagentur.de/)
+- 🌐 Website: <a href="https://scribble-werbeagentur.de/" target="_blank" rel="noopener noreferrer">scribble-werbeagentur.de</a>
 - ✉️ Kontakt: Bitte über das Kontaktformular auf der Website
 
 ---
